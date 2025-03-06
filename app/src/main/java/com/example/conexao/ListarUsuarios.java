@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.example.conexao;
-
-/**
- *
- * @author emanu
- */
-public class ListarUsuarios {
-    
-}
-=======
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
@@ -63,4 +48,3 @@ public class ListarUsuarios {
         return textoUsuarios;
     }
 }
->>>>>>> 4b604b91abdb6a18e944bd852d23eadf2daf86c6
